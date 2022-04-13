@@ -167,6 +167,10 @@ body {
   border: 1px solid rgb(73, 73, 233);
 }
 
+#footer {
+  background-color: rgb(10, 10, 10);
+}
+
 @media (min-width: 560px) {
   .about-text {
     padding: 3rem 15rem;
