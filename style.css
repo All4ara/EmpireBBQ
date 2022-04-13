@@ -124,7 +124,7 @@ body {
 #about {
   background-color: #000;
   height: 100%;
-  margin: 0 20px;
+  margin: 0 10px;
   color: var(--first);
   padding: 3rem;
 }
