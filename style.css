@@ -138,8 +138,8 @@ body {
   margin: 1rem;
 }
 .about-pic {
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   padding: 0.5rem;
 }
 
@@ -175,5 +175,10 @@ body {
 @media (min-width: 560px) {
   .about-text {
     padding: 3rem 15rem;
+  }
+  .about-pic {
+    width: 250px;
+    height: 250px;
+    padding: 0.5rem;
   }
 }
