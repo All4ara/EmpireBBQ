@@ -111,13 +111,13 @@ body {
 }
 
 #events {
-  padding: 5rem;
+  padding: 5rem 0rem;
 }
 
 #about {
   background-color: #000;
   height: 100%;
-  margin: 0 10px;
+  margin: 0 20px;
   color: var(--first);
   padding: 3rem;
 }
