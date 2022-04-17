@@ -165,6 +165,26 @@ body {
   background-color: rgb(20, 20, 20);
 }
 
+#story {
+  background-color: #000;
+  height: 100%;
+  margin: 20px;
+  padding: 1rem;
+  color: var(--first);
+  position: relative;
+  top: 7rem;
+}
+
+#menu {
+  background-color: #000;
+  padding: 1rem;
+  margin-top: 5rem;
+}
+
+.menu-body {
+  background-color: #000;
+}
+
 @media (min-width: 560px) {
   .about-logo {
     width: 200px;
@@ -178,5 +198,10 @@ body {
     width: 250px;
     height: 250px;
     padding: 0.5rem;
+  }
+  #menu {
+    background-color: #000;
+    padding: 5rem;
+    margin: 3rem;
   }
 }
