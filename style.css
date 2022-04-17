@@ -167,7 +167,7 @@ body {
 
 #story {
   background-color: #000;
-  height: 100vh;
+  height: 100%;
   padding: 1rem;
   color: var(--first);
 }
