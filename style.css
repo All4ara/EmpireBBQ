@@ -208,6 +208,12 @@ body {
     padding: 5rem;
     margin: 3rem;
   }
+  #story {
+    background-color: #000;
+    height: 100vh;
+    padding: 1rem;
+    color: var(--first);
+  }
   .story-logo {
     width: 400px;
     height: 400px;
