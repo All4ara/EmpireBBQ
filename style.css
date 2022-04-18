@@ -184,6 +184,10 @@ body {
   padding: 1rem;
   margin-top: 5rem;
 }
+.menu {
+  height: 580px;
+  width: 360px;
+}
 
 .menu-body {
   background-color: #000;
