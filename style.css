@@ -192,6 +192,19 @@ body {
 .menu-body {
   background-color: #000;
 }
+.location-body {
+  background-color: #000;
+}
+
+#location {
+  height: 100%;
+}
+
+.location {
+  margin-top: 6rem;
+  padding: 1rem;
+  width: 100%;
+}
 
 @media (min-width: 560px) {
   .about-logo {
